@@ -2,6 +2,10 @@
 
 This repo contains counts created for the "Lunar_regolith" assay using the NF_core RNAseq pipeline (https://github.com/nf-core/rnaseq). 
 
+[Here is a link to a rough draft of a written manuscript](https://docs.google.com/document/d/1-np5DNb4gzrFckPqts1aCl-zTZpZt98fSMhH4DehIKQ/edit?usp=sharing). 
+
+[Here is a link to a rough draft of a slide show narrative](https://docs.google.com/presentation/d/1a__b4exPY8by33kcYLlLfEo_rVxcj7CM7w__xbTRThE/edit?usp=sharing) 
+
 
 Can we use analysis of differential expression of the real regolith to find studies on Earth that are similar using the European Bioinformatics Instiuotes expression atlas data?
 
