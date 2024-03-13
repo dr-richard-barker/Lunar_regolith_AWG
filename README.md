@@ -8,9 +8,6 @@ Can we use analysis of differential expression of the real regolith to find stud
 
 ![Lunar regolith Groots closer look](https://github.com/dr-richard-barker/Lunar_regolith_deeplearning/assets/8679982/3f17413c-2c34-408a-803a-024d78bb2d02)
 
----
-
-![Lunar regolith Groots closer look](https://github.com/dr-richard-barker/Lunar_regolith_deeplearning/assets/8679982/682f4098-2626-4204-b2b0-8e423051c7b1)
 
 ---
 
