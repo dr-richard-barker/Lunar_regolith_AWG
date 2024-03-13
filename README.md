@@ -1,4 +1,4 @@
-# Our goal is to perform deep-learning analysis on the Lunar regolith data using a generalised Reolith vs Earth model. 
+# Our goal is to perform deep-learning analysis on the Lunar regolith data using a generalised Regolith vs Earth DESeq2 linear model. 
 
 This repo contains counts created for the "Lunar_regolith" assay using the NF_core RNAseq pipeline (https://github.com/nf-core/rnaseq). 
 
