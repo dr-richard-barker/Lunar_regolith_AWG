@@ -1,8 +1,12 @@
-# Lunar_regolith_deeplearning
+# Our goal is to perform some deep-learning analysis on the Lunar regolith data using a generalised Reolith vs Earth model. 
 
-Lunar_regolith_NF_core_counts
+This repo contains counts created for the "Lunar_regolith" assay using the NF_core RNAseq pipeline (https://github.com/nf-core/rnaseq). 
 
-Can we use analysis of differential expression of the real regolith to find studies on Earth that are similar? 
+
+Can we use analysis of differential expression of the real regolith to find studies on Earth that are similar using the European Bioinformatics Instiuotes expression atlas data?
+
+
+[More information on the EBI expression atlas API syntax can be found here](https://github.com/gxa/atlas_gsa/tree/master)
 
 
 ---
