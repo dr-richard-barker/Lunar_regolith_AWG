@@ -73,7 +73,7 @@ The code below was created by the AI to make this graph.
 
 **Python Code**
 
-'''
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -100,7 +100,7 @@ plt.ylabel('-log10(Moon-Earth___padj)')
 plt.title('Volcano Dot Plot')
 plt.grid(True)
 plt.show()
-'''
+```
 
 
 
