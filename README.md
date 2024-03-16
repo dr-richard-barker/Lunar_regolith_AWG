@@ -68,26 +68,31 @@ The plot provides a visual representation of the data, making it easier to ident
 If you have any further questions or need additional assistance, please don't hesitate to ask.
 
 
-The code below was created by the AI in order to make this graph. 
+The code below was created by the AI to make this graph. 
 
 
-python Code
+**Python Code**
+
 '''
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Load the data
+**Load the data**
+
 data = pd.read_csv('/tmp/Broad Lunar Soil Model- regolith vs Earth.csv', index_col=0)
 
-# Create a new column for the -log10 transformation of the "Moon-Earth___padj"
+**Create a new column for the -log10 transformation of the "Moon-Earth___padj"**
+
 data['-log10_padj'] = -np.log10(data['Moon-Earth___padj'])
 
-# Create a new column for the color
+**Create a new column for the color**
+
 data['color'] = np.where(data['Moon-Earth___log2FoldChange'] > 0, 'red', 'blue')
 data['color'] = np.where(data['Moon-Earth___padj'] > 0.1, 'grey', data['color'])
 
-# Create the plot
+**Create the plot**
+
 plt.figure(figsize=(10, 8))
 plt.scatter(data['Moon-Earth___log2FoldChange'], data['-log10_padj'], c=data['color'])
 plt.xlabel('Moon-Earth___log2FoldChange')
