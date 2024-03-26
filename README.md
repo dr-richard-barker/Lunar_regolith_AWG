@@ -1,5 +1,9 @@
 # Our goal is to perform deep-learning analysis on the Lunar regolith data using a generalised Regolith vs Earth DESeq2 linear model. 
 
+
+To find out why watch this ["Tour of the Moon"](https://youtu.be/nr5Pj6GQL2o?si=i_1_P392M0lkRxqG) in 4K video.  
+
+
 This repo contains counts created for the "Lunar_regolith" assay using the NF_core RNAseq pipeline (https://github.com/nf-core/rnaseq). 
 
 [Here is a link to a rough draft of a written manuscript](https://docs.google.com/document/d/1-np5DNb4gzrFckPqts1aCl-zTZpZt98fSMhH4DehIKQ/edit?usp=sharing). 
