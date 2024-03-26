@@ -44,7 +44,7 @@ I'll be happy to assist you with the code and show you how to generate the graph
 
 
 ---
-**Humand Question:** Can you plot these data as a labelled volcano dot plot using the Row-names to define each dot, use the "Moon-Earth___log2FoldChange" to plot the x axis and a -log10 transformation of the "Moon-Earth___padj" as the Y axis. If they have a positive Moon-Earth___log2FoldChange color the dots red and if the have a negative Moon-Earth___log2FoldChange make the dots blue unless they have an a "Moon-Earth___padj" of >0.1 in which case make them grey.  
+**Human Question:** Can you plot these data as a labelled volcano dot plot using the Row-names to define each dot, use the "Moon-Earth___log2FoldChange" to plot the x axis and a -log10 transformation of the "Moon-Earth___padj" as the Y axis. If they have a positive Moon-Earth___log2FoldChange color the dots red and if the have a negative Moon-Earth___log2FoldChange make the dots blue unless they have an a "Moon-Earth___padj" of >0.1 in which case make them grey.  
 "Broad Lunar Soil Model- regolith vs Earth.csv"
 
 "Genius" mode, AI Thinking, AI Programming, AI Writing,
