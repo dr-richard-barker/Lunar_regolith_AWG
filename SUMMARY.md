@@ -1,5 +1,8 @@
 # Table of contents
 
-* [Our goal is to perform deep-learning analysis on the Lunar regolith data using a generalised Regolit](README.md)
-* [Original\_insights](Original\_insights/readme.md)
-* [Regolith\_simulant](Regolith\_simulant/readme.md)
+* [Reanalysis of Lunar regolith data using a general Regolith model](README.md)
+* [Original insights from space plants Florida.](Original\_insights/readme.md)
+* [The Green Lunar Revolution](the-green-lunar-revolution.md)
+* [Regolith simulant assessment](Regolith\_simulant/readme.md)
+* [Not sure how you can help?](not-sure-how-you-can-help.md)
+* [Digital double](digital-double.md)
