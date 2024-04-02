@@ -1,6 +1,6 @@
-:unar simulant study using the CoSE Lunar Large Chamber, 
+Lunar simulant study using the CoSE Lunar Large Chamber, 
 
-Figure:
+Figure XX:
 ![Lunar regolith Groots closer look](https://github.com/dr-richard-barker/Lunar_regolith_AWG/assets/8679982/d9b7d9fc-e4fa-460f-ba0d-24f098591ad4)
 
 
