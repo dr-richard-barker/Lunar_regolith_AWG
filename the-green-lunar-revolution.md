@@ -1,15 +1,5 @@
 # The Green Lunar Revolution
 
-
-
-**Is anthocyanin production necessary during early seedling establishment?**
-
-**In the absence of insects and pathogens?**
-
-**Include analysis of bioremediation?**
-
-**Other high toxicity soils?**
-
 **Introduction:**
 
 Paul _et al.,_ (2022) investigated the ability of plants to grow in lunar regolith and utilize it as a resource for life support in lunar habitats. Using the terrestrial plant Arabidopsis thaliana and samples from Apollo 11, 12, and 17, they found that the plants were able to germinate and grow in diverse lunar regoliths, but growth was challenging and many showed severe stress morphologies. Furthermore, all plants grown in lunar regoliths showed differential gene expression indicating ionic stresses similar to plant reactions to salt, metal, and reactive oxygen species (ROS). Therefore, while lunar regoliths can be useful for plant production in lunar habitats, they are not benign substrates, and further research is needed to elucidate the interaction between plants and lunar regolith and mitigate any negative effects. This study provided important insights into the potential use of in-situ resources for life support on other worlds, particularly the Moon.
@@ -68,6 +58,8 @@ In conclusion, the reduction in CPS (GA precursor supply) and a reduction in GA3
 
 To cultivate crops on the lunar regolith, plants must be able to anchor their roots deep into the soil to obtain water and nutrients. To comprehend how removing the _Rht_ dwarf allele in wheat or restoring GA biosynthesis in rice roots can help crop roots grow deeper in the lunar regolith, we must first understand their significance in plant growth. The _Rht_ dwarf allele in wheat reduces the height of the plant, and it curbs the production of gibberellins, plant hormones that stimulate stem elongation. With the removal of this allele, wheat plants can grow taller, with longer stems, and deeper roots, as they can generate more gibberellins. Similarly, in rice, restoring GA biosynthesis in the roots can promote root growth, and targeting specific cell types or stages of development can facilitate the production of longer and deeper roots. Without this metabolic engineering of the cell GA levels the roots may grow slower and shorter, which limits the plant's capacity to access water and nutrients deeper in the soil or regolith. Thus, by removing the _Rht_ dwarf allele in wheat or restoring GA biosynthesis in rice roots or simply adding GA to the irrigation, the resulting plants can grow longer and deeper roots. These roots can help anchor them into the lunar regolith, enabling them to access the resources they need to sustain their growth. This could potentially facilitate sustainable crop growth on the moon, which is crucial for future human exploration and settlement.
 
+
+
 **Transcriptomics**
 
 Prediction -> GA level are low
@@ -125,135 +117,174 @@ Figure XX: AraCyc hormonal pathway collage showing loci and reactions with a log
 
 Source: [https://doi.org/10.1016/j.pbi.2021.102074](https://doi.org/10.1016/j.pbi.2021.102074)
 
-### &#x20;<a href="#id-5imqo9oazcz9" id="id-5imqo9oazcz9"></a>
-
-### **DELLA Protein SLR1 Integrates and Amplifies Salicylic Acid- and Jasmonic Acid-Dependent Innate Immunity in Rice** <a href="#xxkax22vyotz" id="xxkax22vyotz"></a>
-
-[https://pubmed.ncbi.nlm.nih.gov/26829979/](https://pubmed.ncbi.nlm.nih.gov/26829979/)
-
-**A Pivotal Role of DELLAs in Regulating Multiple Hormone Signals**
-
-DOI:[https://doi.org/10.1016/j.molp.2015.09.011](https://doi.org/10.1016/j.molp.2015.09.011)
-
 ![](.gitbook/assets/4.png)
 
 **Describe and discuss the genetics in the rearview / diagram**
 
 
 
-![](.gitbook/assets/6.png)
-
-**Brain storming figure XX:** Schematic diagram showing Peroxisome, mitochondria, chloroplasts connected by a Protein-Protein interaction network for differential expressed hormonal signaling loci reveals link between JA and GA signaling responses in the lunar regolith.
+![A schematic diagram showing Peroxisome, mitochondria, and chloroplasts connected by a Protein-Protein interaction network for differentially expressed hormonal signalling loci reveals link between JA and GA signaling responses in the lunar regolith.](.gitbook/assets/6.png)
 
 Note: -> this should be a simple table &/or heat map showing the
 
-[DRB full reananlysis figures](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing)
+[DRB full reanalysis figures](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing)
 
 [DRB Summary](https://docs.google.com/presentation/u/0/d/1a\_\_b4exPY8by33kcYLlLfEo\_rVxcj7CM7w\_\_xbTRThE/edit)
 
-**These slides can be refined and exported from the slide show in a high resolution…**
+**Note: These slides can be refined and exported from the slide show in a high resolution…**
 
 [DRB Summary](https://docs.google.com/presentation/u/0/d/1a\_\_b4exPY8by33kcYLlLfEo\_rVxcj7CM7w\_\_xbTRThE/edit)
 
 ![](.gitbook/assets/7.png)
 
-**Figure X**: Reanalysis if lunar samples reveal varying degree’s of stress changing gene expression that broadley correlates with lunar location.
+**Figure X**: Recent reanalyses of lunar samples have demonstrated varying degrees of stress-induced gene expression that strongly correlate with the geographic location of these samples on the Moon. This finding suggests a significant environmental influence on the molecular biology of organisms exposed to lunar conditions, warranting further investigation into the nature and implications of these variations.
 
 Note: 50 pages below of other summary figures from the Broad lunar model.
 
-![](.gitbook/assets/8.png)
+![Higher resolution avalibale on slides in repo.](.gitbook/assets/8.png)
 
-**Figure x: xxxxx Stress signal XXXX** GAGE analysis, KEGG pathway of the rhibosome and phenylpropanoid pathway.
+**Figure x:** The signal indicative of the general adaptation response to starvation stress was pinpointed through GAGE (Generally Applicable Gene-set Enrichment) analysis focused on the KEGG (Kyoto Encyclopedia of Genes and Genomes) pathways associated with the ribosome and the phenylpropanoid biosynthesis pathway.
 
-Note: Blurry, see version in slide show, all figures can be exported to word and a SVG / Vector format
 
-![](.gitbook/assets/9.png)
 
-**Figure X:** KEGG hormonal signaling pathways shows changes in Ethylene, GA and JA.
+![Higher resolution avalibale on slides in repo.](.gitbook/assets/9.png)
 
-**Stress signal**
+Each of the 3 locations exhibited a range of transcriptional responses with APPolo 11 exhibiting the greatest change in gene expression. Despight changes inthe number of differentially expressed genes in these coamprisons the pathways that respond are broadley similar. These samples can then be pooled to create a broad lunar model compares all the lunar regolith to the simulant.  we then used KEGG pathview to illustrate changes in the hormonal signaling pathways. This reveals a borad alteration to signaling systems associated with ethylene, gibberellin (GA), cytokinin,  jasmonic acid (JA), salasistic acid (SA) and auxin. These stress signals interact with the response to the perception of blue light and the regulation of the circadian rhythm in response to starvation.
 
-Note: Blurry, see version in slide show, all figures can be exported to word and a SVG / Vector format
 
-**References**
 
-Paul, AL., Elardo, S.M. & Ferl, R. Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration. _Commun Biol_ 5, 382 (2022). https://doi.org/10.1038/s42003-022-03334-8
 
-Colebrook EH, Thomas SG, Phillips AL, Hedden P. The role of gibberellin signalling in plant responses to abiotic stress. J Exp Biol. 2014 Jan 1;217(Pt 1):67-75. doi: 10.1242/jeb.089938. PMID: 24353205.
 
-De Smet S, Cuypers A, Vangronsveld J, Remans T. Gene Networks Involved in Hormonal Control of Root Development in Arabidopsis thaliana: A Framework for Studying Its Disturbance by Metal Stress. Int J Mol Sci. 2015 Aug 14;16(8):19195-224. doi: 10.3390/ijms160819195. PMID: 26287175; PMCID: PMC4581294.
+**This is brainstorming, add GA related gravitropism narative?**&#x20;
 
-[https://doi.org/10.1016/j.pbi.2021.102074](https://doi.org/10.1016/j.pbi.2021.102074)
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1785415/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1785415/)
-
-**This is brain storming…**. With refinement of the narrative the figures and be finalized.
+With the refinement of the narrative the figures and be finalized.
 
 ![C:\Users\Dr Richard Barker\Pictures\Science Pictures\GA old school giant.png](.gitbook/assets/10.png) ![](.gitbook/assets/11.png) ![](.gitbook/assets/12.png)
 
-GA Figure Brainstorming: Addition of GA can make plants bigger. [Link to slide show on GA ](https://docs.google.com/presentation/d/1qOXxHaiaiWcOGvZV7kG1T9CR9LT4lEJVZy07Z0XnsOM/edit?usp=sharing)& role in touch response. Aka -> touch causes a reduction in GA levels, causing the plant to remain small
+![](.gitbook/assets/13.png) ![](.gitbook/assets/14.png) ![](.gitbook/assets/15.png)
+
+GA Figure Brainstorming: The addition of GA can make plants bigger.
+
+&#x20;[Link to slide show on GA ](https://docs.google.com/presentation/d/1qOXxHaiaiWcOGvZV7kG1T9CR9LT4lEJVZy07Z0XnsOM/edit?usp=sharing)& role in touch response. Aka -> touch causes a reduction in GA levels, causing the plant to remain small
 
 \-> Lange and Lange et al., (2015) -> touch induced changes in Arabidopsis morphology dependent on
 
-Gibberellin breakdown. [Link to slide show ](https://docs.google.com/presentation/d/11fqhxVFi29cxjVGsJrUeRwj8jh1zZSKSJDIrsfqZqxE/edit?usp=sharing)on GA and gravitropism slides/narrative
+Gibberellin breakdown.
+
+&#x20;[Link to slide show ](https://docs.google.com/presentation/d/11fqhxVFi29cxjVGsJrUeRwj8jh1zZSKSJDIrsfqZqxE/edit?usp=sharing)on GA and gravitropism slides/narrative
 
 \->https://journals.biologists.com/jeb/article/217/1/67/11961/The-role-of-gibberellin-signalling-in-plant
 
-![](.gitbook/assets/13.png) ![](.gitbook/assets/14.png) ![](.gitbook/assets/15.png)
-
 The GA pattern resembles wounding more than nutrient stress…
 
-**Original analysis summary.**
 
-**The broad lunar soil stress response model: Reveals circadian rhythm, starvation and hormonal regulation of defence metabolism.**
 
-**Link to** [**Source figure/narrative slide show**](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing) **that needs tidying**
+**Original analysis summary. The broad lunar soil stress response model: Reveals circadian rhythm, starvation and hormonal regulation of defence metabolism. Link to** [**Source figure/narrative slide show**](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing) **that needs tidying**
 
-There are 4 main response clusters in the data.
+## Analysis of Stress Response in Plants Exposed to Lunar Soil Conditions
 
-1. Circadian rhythm, cold signaling, hormones, glycosinolates and microtubules
-2. JA, ROS, Hypoxia, Defence metabolism
-3. Fe ion transport, transcription suppression, Defence metabolism
-4. Flavonoid metabolism, Starvation response, Anthocyanin metabolism
+### Introduction
 
-In summary, lunar soil is stressful, causing the plants to grow slower and activate their secondary defence metabolism.
+Recent empirical evidence suggests that lunar soil exerts considerable stress on plant systems, significantly impacting their growth rates and defense mechanisms. This document aims to elucidate the primary stress response clusters identified in plants subjected to lunar soil, focusing on transcriptional activity, signaling pathways, metabolic processes, and circadian rhythm alterations.
 
-* Protein translation is down, ribosome components are down.
-* Oxphos is up and so too is the ERAD protein recycling pathway.
-* Circadian rhythm is altered in part through CCA1 and TOC1.
-* Defense metabolism is up.
-* Photosynthesis and carbon metabolism is down.
-* Cell division is down.
-* JA signaling is up.
-* Response to acid is up.
-* Defense signaling is up along with defense against fungus.
-* Auxin and cytokinin biosynthesis is up.
-* Cold signaling is down.
-* WRYK33 -40, -13 & DREB2 AP2, NAC6, Kan1, GBox, (& other stress responsive transcription factor) targets are up
+### Stress Response Clusters
 
-![](.gitbook/assets/16.png)
+#### 1. Transcriptional Activity
 
-How did we get here? We grouped all the lunar samples into one “BroadLlunar Model” aka Moon - Earth
+Key transcription factors, including WRYK33, DREB2, AP2, NAC6, Kan1, and GBox – all known to be responsive to stress conditions – are observed to be upregulated. This upregulation indicates an enhanced expression of genes involved in stress adaptation mechanisms.
 
-![](.gitbook/assets/17.png)
+#### 2. Signaling Pathways
 
-**Figure x:** An alternative statical model that groups all lunar locations can be used to identify DEG’s. Box plot, densit plot, scatter plot and MA plot all show transcriptional data distrubtion. Tsne and MDS plots show grouping that doesn’t correlate with main factors (location).
+* **Cold Signaling**: There is a notable downregulation in cold signaling, suggesting a reduced response to low temperatures.
+* **Auxin and Cytokinin Biosynthesis**: Both of these growth-regulating hormones show increased biosynthesis, likely as a compensatory mechanism to mitigate stress effects.
+* **Defense Signaling**: A pronounced increase in defense signaling pathways, including those against fungal pathogens, has been observed. This is coupled with an upregulation in response to acid stress and Jasmonic Acid (JA) signaling, highlighting a multi-faceted defense response.
+* **Photosynthesis and Carbon Metabolism**: Both processes are downregulated, illustrating the diversion of energy from growth to defense mechanisms.
 
-![](.gitbook/assets/18.png)
+#### 3. Metabolic Processes
 
-**Figure X:** DEG, Up count, DEG down count, volcano plot summary of FC and adjusted p-values and Genome ontology terms associated with the 5 main principle components within the expression matrix. All lunar samples were binned together to create the broad lunar response model.
+* **Defense Metabolism**: There is a significant increase in defense metabolism, indicating an active production of defense compounds.
+* **Oxidative Phosphorylation (Oxphos)** and **ERAD Protein Recycling Pathway**: Both pathways are upregulated, illustrating an increased energy production and protein recycling mechanism, respectively.
+* **Protein Translation**: A downregulation in protein translation and ribosomal components is observed, further signifying the plant's shift from growth to stress response.
 
-A simple linear modeling comparing true lunar regolith to JSC simulate identities 759 loci that are suppressed and about 631 loci that are suppressed.There is a change in ribosome composition, mRNA processing, DNA repair,cell cycle regulation, defense and photosynthesis. More detailed GO p-value and GO description are shown below.
+#### 4. Circadian Rhythm Alteration
 
-![](.gitbook/assets/19.png)
+The circadian rhythm is notably altered, partially through the modulation of CCA1 and TOC1, which could affect various physiological processes in plants, including growth and stress responses.
 
-Figure X: Dendrogram showing connected GO groups identified by the broad lunar response model. Biological process differenially expressed Earth JSC simulant vs Lunar regolith
+### Summary
 
-**4 clusters identified by WGCNA**![](.gitbook/assets/20.png)
+Exposure to lunar soil conditions imposes significant stress on plant systems, manifesting in slowed growth and a pronounced activation of secondary defense mechanisms. Key response mechanisms include the enhancement of flavonoid, anthocyanin metabolism, and iron transport; suppression of transcription; and a robust defense metabolism focusing on JA, Reactive Oxygen Species (ROS), hypoxia, and defense against biotic stressors. Additionally, alterations in circadian rhythm, cold signaling, hormone synthesis, and microtubule function underscore the broad impact of lunar soil on plant physiology.
 
-Figure X: WGCNA identifies 4 clusters based functional grouping. Turquoise. Brown, Yellow and Blue clusters are marked on the dendrogram of expression and function. Top 10 loci defining each cluster shown.
+In conclusion, understanding these stress response clusters provides critical insights into plant resilience mechanisms under extraterrestrial conditions, contributing to our knowledge of plant adaptation and survival strategies in harsh environments.
 
-**A few examples**
+![Tsne clusering identifies 4 clusers with disinct stress response functions.](.gitbook/assets/16.png)
+
+**4 clusters defined by Kmean**
+
+#### Understanding the Aggregation of Lunar Samples: The Broad Lunar Model
+
+In the pursuit of advancing our comprehension of the Moon's geology and its relationship with Earth, researchers have categorized lunar samples into a unified framework, referred to as the "Broad Lunar Model". This approach synthesizes the diverse array of samples gathered from the lunar surface into a cohesive linear model, facilitating a more comprehensive evaluation of the Moon's composition and its evolutionary linkage with Earth.
+
+![Figure x: An alternative statical model that groups all lunar locations can be used to identify DEG’s. Box plot, densit plot, scatter plot and MA plot all show transcriptional data distrubtion. Tsne and MDS plots show grouping that doesn’t correlate with main factors (location).](.gitbook/assets/17.png)
+
+
+
+![Figure X: DEG, Up count, DEG down count, volcano plot summary of FC and adjusted p-values and Genome ontology terms associated with the 5 main principle components within the expression matrix. All lunar samples were binned together to create the broad lunar response model.](.gitbook/assets/18.png)
+
+
+
+#### Comparative Analysis of True Lunar Regolith and JSC Simulate: Gene Expression Insights
+
+***
+
+This study presents a comprehensive analysis comparing the gene expression profiles of organisms exposed to true lunar regolith and those subjected to the JSC-1A lunar simulant. Our analysis identified 759 loci with suppressed expression and 631 loci with enhanced expression in the presence of true lunar regolith, suggesting significant alterations in various biological processes.
+
+**Key Findings**
+
+* **Suppression of Gene Expression**: A notable suppression of gene expression was observed across 759 loci, indicating a potential downregulation of key biological functions in response to true lunar regolith exposure.
+* **Enhanced Gene Expression**: Conversely, 631 loci exhibited enhanced expression, suggesting adaptive or stress response mechanisms might be activated by the lunar environment.
+* **Biological Processes Affected**: The analysis reveals substantial impacts on:
+  * Ribosome composition
+  * mRNA processing
+  * DNA repair mechanisms
+  * Cell cycle regulation
+  * Defense mechanisms
+  * Photosynthesis processes
+
+**Gene Ontology (GO) Analysis**
+
+A detailed Gene Ontology (GO) analysis provided further insights into the affected biological processes, highlighting significant changes with associated p-values indicating statistical relevance. The GO analysis underscores the extensive impact of lunar regolith exposure on cellular and molecular components, elucidating potential pathways affected by the lunar environment. Gene ontology is a project that produces a dynamic annotated database that defines biological processes, cellular components, and molecular functions of gene products in a species-independent manner \[1]. This particular graph is focus on biological processes.
+
+![Dendrogram showing connected GO groups identified by the broad lunar response model. Biological process differentially expressed Earth JSC simulant vs Lunar regolith](.gitbook/assets/19.png)
+
+Within the graph, terms are connected by dendrongrams indicating parent-child relationships. A child term inherits the meaning of its parent, and adds additional specificity. For example, in the image, the term "mitotic cell cycle phase transition" (6e-16) is a child of the term "cell cycle phase transition" (4e-16). This indicates that a mitotic cell cycle phase transition is a specific kind of cell cycle phase transition. The numbers next to the terms in the image likely refer to p-values, which indicate the probability that a random association between genes and a term could have produced the observed amount of association. Lower p-values indicate a stronger association between the genes and the term.
+
+The visualization, an excerpt from the comprehensive Gene Ontology (GO) term graph available through the GO consortium\[1], categorizes biological processes from general to specific. This categorization begins with the Cell Cycle, distinguishing between the Meiotic Cell Cycle, including the Meiotic Cell Cycle Process, and the Mitotic Cell Cycle, which is further divided into the Mitotic Cell Cycle Process and the Mitotic Cell Cycle Phase Transition. In another category, the Response to External Stimulus encompasses the Response to Chemical, which includes the Response to Hormone, and the Response to Other Organism, which includes the Defense Response and the Response to Fungus.
+
+Here are some references that you may find helpful:
+
+* The Gene Ontology Consortium. [http://geneontology.org/](http://geneontology.org/)
+
+**Conclusion**
+
+This comparative study between true lunar regolith and JSC-1A lunar simulant underscores the profound effects of the lunar material on gene expression. Not only does this research enhance our understanding of life's resilience in extraterrestrial environments, but it also provides critical insights for future lunar explorations and the development of bio-regenerative life support systems.
+
+**Future Directions**
+
+Further research is necessary to validate these findings and explore their implications for long-term lunar habitation and the viability of cultivating life-supporting ecosystems on the Moon.
+
+
+
+
+
+### Identification of 4 Gene Clusters Through WGCNA
+
+<figure><img src=".gitbook/assets/20.png" alt=""><figcaption><p>Ideniftifcation of Gene Clusters through Weighted Gene Co-expression Network Analysis,</p></figcaption></figure>
+
+Using Weighted Gene Co-expression Network Analysis (WGCNA), four distinct clusters have been identified based on their functional grouping. These clusters are delineated within the dendrogram that represents both gene expression and functional similarities. The clusters are categorized as follows: Turquoise, Brown, Yellow, and Blue. Each of these clusters has been characterized by the top 10 loci that define their respective grouping, providing key insights into the underlying gene expressions that demarcate each cluster.
+
+
+
+**A few example "marker" loci from the 4 clusters identified by WGCNA**
 
 Turquoise: GLR1.3, PER34 CEN2 and NAC047.
 
@@ -263,7 +294,7 @@ Yellow: SUS3, RABC2B, TSA1, BGLU18, GOLS1, PHO1-H10 and GLO5
 
 Blue: SOD2, PAP24, UP6, and FAP2
 
-**4 clusters defined by Kmean**
+
 
 Figure: GO terms with significant enrichment within the DEG’s from the Broad lunar location model.
 
@@ -325,13 +356,11 @@ Table X: Transcription factor enrichment database GTRD
 |                | 1.6e-03      | 59         | [ATHB-6-Homeobox-leucine zipper protein ATHB-6 target gene](http://gtrd.biouml.org/) |
 |                | 3.3e-03      | 99         | [KAN1-Transcription repressor KAN1 target gene](http://gtrd.biouml.org/)             |
 
-Figure x: Very detailed Metascape analysis of the location-specific distinction available on request.
-
 DRB factors model Version 10
 
 CORE SUPPRESSED 24 LOCI
 
-Table: Enriched papers about suppressed core response
+Table: Enriched papers about suppressed core response is the "cold" or "blue light" slow growth response.
 
 | **Blue Light- and Low Temperature-Regulated COR27 and COR28 Play Roles in the Arabidopsis Circadian Clock.**                               | **0.00003702781658218090** | **AT4G33980,AT5G24470,AT5G42900** | **27837007** |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | --------------------------------- | ------------ |
@@ -351,12 +380,19 @@ Enriched protein domain’s also indicate suppression of “cold response loci/p
 | - | ---------------------------------------------------------------------------------------------- | ----------- | - |
 |   | Cold-regulated protein 27/28 \[[IPR044678](http://www.ebi.ac.uk/interpro/IEntry?ac=IPR044678)] | 0.006015    | 2 |
 
-Below more KEGG pathway analysis
 
-* See / add the TF enrichment tables here?
 
-D
+Figure x: Very detailed Metascape analysis of the location-specific distinction available on request.
 
-**Bright red indicates most upregulated; bright green, most downregulated.**
+### **References**
 
-Extra KEGG path view
+
+
+* Lange, M.J., and Lange, T. et al., 2015. A Pivotal Role of DELLAs in Regulating Multiple Hormone Signals. _Molecular Plant_, \[online] 8(9), pp.1273–1284. Available at: [https://doi.org/10.1016/j.molp.2015.09.011](https://doi.org/10.1016/j.molp.2015.09.011) \[Accessed Date].
+* DELLA Protein SLR1 Integrates and Amplifies Salicylic Acid- and Jasmonic Acid-Dependent Innate Immunity in Rice. (2016). _PubMed_, \[online] Available at: [https://pubmed.ncbi.nlm.nih.gov/26829979/](https://pubmed.ncbi.nlm.nih.gov/26829979/) \[Accessed Date].
+*   Paul, AL., Elardo, S.M. & Ferl, R. Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration. _Commun Biol_ 5, 382 (2022). https://doi.org/10.1038/s42003-022-03334-8
+
+    Colebrook EH, Thomas SG, Phillips AL, Hedden P. The role of gibberellin signalling in plant responses to abiotic stress. J Exp Biol. 2014 Jan 1;217(Pt 1):67-75. doi: 10.1242/jeb.089938. PMID: 24353205.
+* De Smet S, Cuypers A, Vangronsveld J, Remans T. Gene Networks Involved in Hormonal Control of Root Development in Arabidopsis thaliana: A Framework for Studying Its Disturbance by Metal Stress. Int J Mol Sci. 2015 Aug 14;16(8):19195-224. doi: 10.3390/ijms160819195. PMID: 26287175; PMCID: PMC4581294.
+* Griffiths J, Murase K, Rieu I, Zentella R, Zhang ZL, Powers SJ, Gong F, Phillips AL, Hedden P, Sun TP, Thomas SG. Genetic characterization and functional analysis of the GID1 gibberellin receptors in Arabidopsis. Plant Cell. 2006 Dec;18(12):3399-414. doi: 10.1105/tpc.106.047415. Epub 2006 Dec 28. Erratum in: Plant Cell. 2007 Feb;19(2):726. PMID: 17194763; PMCID: PMC1785415.
+

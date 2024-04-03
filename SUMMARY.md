@@ -6,3 +6,5 @@
 * [Regolith simulant assessment](Regolith\_simulant/readme.md)
 * [Not sure how you can help?](not-sure-how-you-can-help.md)
 * [Digital double](digital-double.md)
+* [The Shakleton Crater Rim garden](the-shakleton-crater-rim-garden.md)
+* [Regolith stress might resemble some terrestrial stressors](regolith-stress-might-resemble-some-terrestrial-stressors.md)
