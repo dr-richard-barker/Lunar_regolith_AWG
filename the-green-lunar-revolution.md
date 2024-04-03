@@ -28,6 +28,8 @@ The lunar regolith sample (GLDS-XXX) statistical reanalysis using GAGE gene set 
 
 [Link to supplemental data](https://docs.google.com/spreadsheets/d/1l3QPyZNJN0Ed3uDyDlk2Ulwe7vfN\_DcNGFpiGytuOg4/edit?usp=sharing).
 
+{% embed url="https://docs.google.com/spreadsheets/d/1l3QPyZNJN0Ed3uDyDlk2Ulwe7vfN_DcNGFpiGytuOg4/edit#gid=341117732" %}
+
 _Summary of the different plant response to Regolith vs simulant._
 
 GAGE analysis (**Figure X**) reveals suppression of Ribosomes as the major component of the data; they are vital for protein synthesis, and composed of RNA and protein subunits. The suppression of their expression can be analyzed using KEGG pathview revealing how ribosome biogenesis involves changes to subunit assembly. The DNA repair and replication system that generates two identical copies during chromosomal unwinding is suppressed along with the DNA synthesis, homologous recombination and DNA mismatch repair pathway. Glucosinolate biosynthesis genes are being suppressed in the lunar samples and producing sulfur-containing compounds for plant defence. Other parts of the Plant-pathogen interaction pathway are also affected which will alter the plants PAMP recognition system. The loci involved in 2-Oxocarboxylic acid metabolism, a process that generates ATP and precursor molecules is also suppressed along with core metabolic processes involved in Valine, leucine, and isoleucine biosynthesis. In contrast, it is only the phenylpropanoid biosynthesis pathway that appears elevated in these GAGE analyses. Taken together the pathway analysis shows the plants are slowing their growth in a manner that in part resembles that of plants experiencing mechanical stimuli along with all the downstream nutritional deficits (REF).
@@ -60,7 +62,7 @@ To cultivate crops on the lunar regolith, plants must be able to anchor their ro
 
 
 
-**Transcriptomics**
+**Transcriptomics predictions requires hormone quantification and other phenotyping data.**&#x20;
 
 Prediction -> GA level are low
 
