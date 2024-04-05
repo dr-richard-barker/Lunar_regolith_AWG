@@ -8,7 +8,7 @@
 
 **Active repo for data and code sharing.**
 
-{% embed url="https://github.com/dr-richard-barker/Lunar_regolith_AWG" %}
+{% @github-files/github-code-block url="https://github.com/dr-richard-barker/Lunar_regolith_AWG" %}
 
 Introduction to the moon.
 
