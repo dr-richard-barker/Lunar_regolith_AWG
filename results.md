@@ -4,7 +4,7 @@
 
 **The broad lunar soil stress response model**: Reveals circadian rhythm, starvation and hormonal regulation of defence metabolism.&#x20;
 
-Link to [Source figure/narrative slide show](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing) that needs tidying
+Link to [Source figure/narrative slide show](https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit?usp=sharing) that needs description and code to be linked.
 
 {% embed url="https://docs.google.com/presentation/d/1BFprcp7zzBdi1luFcqVtUXI25qJImtgwWsIGVaGkdPA/edit" %}
 

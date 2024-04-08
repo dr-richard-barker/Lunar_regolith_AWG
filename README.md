@@ -24,7 +24,7 @@ This repo contains counts created for the "Lunar\_regolith" assay using the NF\_
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://github.com/nf-core/rnaseq" %}
+{% @github-files/github-code-block %}
 
 ***
 
