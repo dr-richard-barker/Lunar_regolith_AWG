@@ -20,11 +20,245 @@ Finally, in regulating cell division, DELLA proteins interact with a class of tr
 
 
 
+<div>
 
+<figure><img src=".gitbook/assets/AT1G14920-GAI back.jpg" alt=""><figcaption><p>GAI</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G14920-GAI front.jpg" alt=""><figcaption><p>GAI</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT2G01570-RGA back.jpg" alt=""><figcaption><p>RGA</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT2G01570-RGA front.jpg" alt=""><figcaption><p>RGA</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT3G03450-RGL2 back.jpg" alt=""><figcaption><p>RGL2</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT3G03450-RGL2 front.jpg" alt=""><figcaption><p>RGL2</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G17490-RGL3 back.jpg" alt=""><figcaption><p>RGL3</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G17490-RGL3 front.jpg" alt=""><figcaption><p>RGL3</p></figcaption></figure>
+
+</div>
+
+
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT1G15550-GA3OX1 back.jpg" alt=""><figcaption><p>GA3ox1</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G15550-GA3OX1 front.jpg" alt=""><figcaption><p>GA3ox1</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT1G80340-GA3OX2 back.jpg" alt=""><figcaption><p>GA3ox2</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G80340-GA3OX2 front.jpg" alt=""><figcaption><p>GA3ox2</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src=".gitbook/assets/AT4G25420-GA20OX1 back (1).jpg" alt=""><figcaption><p>GA20ox1</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT4G25420-GA20OX1 front (1).jpg" alt=""><figcaption><p>GA20ox1</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G51810-GA20OX2 back (1).jpg" alt=""><figcaption><p>GA20ox2</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G51810-GA20OX2 front (1).jpg" alt=""><figcaption><p>GA20ox2</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G07200-GA20OX3 back (1).jpg" alt=""><figcaption><p>GA20ox3</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G07200-GA20OX3 front (1).jpg" alt=""><figcaption><p>GA20ox3</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT1G44090-GA20OX5 back (1).jpg" alt=""><figcaption><p>GA20ox5</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G44090-GA20OX5 front (1).jpg" alt=""><figcaption><p>GA20ox5</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G25900-KO back.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G25900-KO front.jpg" alt=""><figcaption><p>KAO</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT1G78440-GA2OX1 back.jpg" alt=""><figcaption><p>GA2ox1</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G78440-GA2OX1 front.jpg" alt=""><figcaption><p>GA2ox1</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G15230-GASA4 back.jpg" alt=""><figcaption><p>GASA</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G15230-GASA4 front.jpg" alt=""><figcaption><p>GASA</p></figcaption></figure>
+
+</div>
+
+
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT3G02850-SKOR back.jpg" alt=""><figcaption><p>SKOR</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT3G02850-SKOR front.jpg" alt=""><figcaption><p>SKOR</p></figcaption></figure>
+
+</div>
+
+
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT5G37500-GORK back.jpg" alt=""><figcaption><p>GORK</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT5G37500-GORK front.jpg" alt=""><figcaption><p>GORK</p></figcaption></figure>
+
+</div>
+
+
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT2G26650-AKT1 back.jpg" alt=""><figcaption><p>AKT1</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT2G26650-AKT1 front.jpg" alt=""><figcaption><p>AKT1</p></figcaption></figure>
+
+</div>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Akt1-1 differentially expressed genes p&#x3C;0.05 (results from microarray and metascape mining by DRB)</p></figcaption></figure>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT2G25600-AKT6 back.jpg" alt=""><figcaption><p>AKT6</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT2G25600-AKT6 front.jpg" alt=""><figcaption><p>AKT6</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT1G04710-KAT1 back.jpg" alt=""><figcaption><p>KAT1</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT1G04710-KAT1 front.jpg" alt=""><figcaption><p>KAT1</p></figcaption></figure>
+
+</div>
+
+
+
+<div>
+
+<figure><img src=".gitbook/assets/AT4G32650-KAT3 back.jpg" alt=""><figcaption><p>KAT3</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/AT4G32650-KAT3 front.jpg" alt=""><figcaption><p>KAT3</p></figcaption></figure>
+
+</div>
+
+<figure><img src=".gitbook/assets/AKT_.png" alt=""><figcaption></figcaption></figure>
 
 **Table XX:** Insert summary table of plant hormonal loci from the Broad Lunar model.
 
-<table data-header-hidden><thead><tr><th width="148"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Symbol</strong></td><td><strong>Gene ID</strong></td><td><strong>Moon-Earth_log2FoldChange</strong></td><td><strong>Moon-Earth_padj</strong></td><td><strong>Function</strong></td></tr><tr><td><em><strong>CPS</strong></em></td><td><strong>AT2G18620</strong></td><td><strong>-2.101</strong></td><td><strong>0.023</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KS</em></td><td>AT4G02780</td><td>-0.487</td><td>0.198</td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em><strong>KO</strong></em></td><td><strong>AT5G25900</strong></td><td><strong>0.482</strong></td><td><strong>0.017</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KAO</em></td><td>AT1G79460</td><td>-0.521</td><td><strong>0.115</strong></td><td><strong>GA12 biosynthesis</strong></td></tr><tr><td><em>GA20ox1</em></td><td>AT4G25420</td><td>0.004</td><td>0.995</td><td>Penultimate activation</td></tr><tr><td><em>GA20ox2</em></td><td>AT5G51810</td><td>1.156</td><td><strong>0.170</strong></td><td>Penultimate activation</td></tr><tr><td><em>GA3ox1</em></td><td>AT1G15550</td><td>-0.558</td><td>0.378</td><td>GA activation</td></tr><tr><td><em>GA3ox2</em></td><td>AT1G80340</td><td>-1.078</td><td>0.249</td><td>GA activation</td></tr><tr><td><em><strong>GA2ox1</strong></em></td><td><strong>AT1G02400</strong></td><td><strong>-2.168</strong></td><td><strong>0.044</strong></td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GA2ox2</em></td><td>AT1G30040</td><td>0.139</td><td>0.742</td><td>GA deactivation</td></tr><tr><td><em>GA2ox4</em></td><td>AT1G47990</td><td>0.551</td><td>0.494</td><td>GA deactivation</td></tr><tr><td><em>GA2ox6</em></td><td>AT1G02400</td><td>0.528</td><td>0.236</td><td>GA deactivation</td></tr><tr><td><em>GID1a</em></td><td>AT3G05120</td><td>0.428</td><td><strong>0.162</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1b</em></td><td>AT3G63010</td><td>0.810</td><td><strong>0.167</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1c</em></td><td>AT5G27320</td><td>0.210</td><td><strong>0.148</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GA Methyltransferase</em></td><td>AT4G26460</td><td><strong>2.037</strong></td><td>0.380</td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GAI</em></td><td>AT1G14920</td><td>-0.114</td><td>0.423</td><td>GA signaling</td></tr><tr><td><em>RGA</em></td><td>AT2G01570</td><td>-0.096</td><td>0.683</td><td>GA signaling</td></tr><tr><td><em>RGL1</em></td><td>AT1G66350</td><td>-0.892</td><td>0.083</td><td>GA signaling</td></tr><tr><td><em>RGL2</em></td><td>AT3G03450</td><td>0.424</td><td>0.398</td><td>GA signaling</td></tr><tr><td><em>RGL3</em></td><td>AT5G17490</td><td>0.760</td><td><strong>0.181</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>SPY</em></td><td>AT3G11540</td><td>-0.020</td><td>0.890</td><td>GA signaling</td></tr><tr><td><em>GASA4</em></td><td>AT5G15230</td><td><strong>-1.104</strong></td><td><strong>0.019</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>DWF4 BR Biosynthesis</em></td><td>AT3G50660</td><td><strong>-0.056</strong></td><td><strong>0.046</strong></td><td><strong>BA biosynthesis</strong></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="148"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Symbol</strong></td><td><strong>Gene ID</strong></td><td><strong>Moon-Earth_log2FoldChange</strong></td><td><strong>Moon-Earth_padj</strong></td><td><strong>Function</strong></td></tr><tr><td><em><strong>CPS</strong></em></td><td>AT4G02780</td><td><strong>-2.101</strong></td><td><strong>0.023</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KAO</em></td><td><strong>AT2G18620</strong> </td><td>-0.487</td><td>0.198</td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em><strong>KO</strong></em></td><td><strong>AT5G25900</strong></td><td><strong>0.482</strong></td><td><strong>0.017</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KS</em></td><td>AT1G79460</td><td>-0.521</td><td><strong>0.115</strong></td><td><strong>GA12 biosynthesis</strong></td></tr><tr><td><em>GA20ox1</em></td><td>AT4G25420</td><td>0.004</td><td>0.995</td><td>Penultimate activation</td></tr><tr><td><em>GA20ox2</em></td><td>AT5G51810</td><td>1.156</td><td><strong>0.170</strong></td><td>Penultimate activation</td></tr><tr><td><em>GA3ox1</em></td><td>AT1G15550</td><td>-0.558</td><td>0.378</td><td>GA activation</td></tr><tr><td><em>GA3ox2</em></td><td>AT1G80340</td><td>-1.078</td><td>0.249</td><td>GA activation</td></tr><tr><td><em><strong>GA2ox1</strong></em></td><td><strong>AT1G02400</strong></td><td><strong>-2.168</strong></td><td><strong>0.044</strong></td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GA2ox2</em></td><td>AT1G30040</td><td>0.139</td><td>0.742</td><td>GA deactivation</td></tr><tr><td><em>GA2ox4</em></td><td>AT1G47990</td><td>0.551</td><td>0.494</td><td>GA deactivation</td></tr><tr><td><em>GA2ox6</em></td><td>AT1G02400</td><td>0.528</td><td>0.236</td><td>GA deactivation</td></tr><tr><td><em>GID1a</em></td><td>AT3G05120</td><td>0.428</td><td><strong>0.162</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1b</em></td><td>AT3G63010</td><td>0.810</td><td><strong>0.167</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1c</em></td><td>AT5G27320</td><td>0.210</td><td><strong>0.148</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GA Methyltransferase</em></td><td>AT4G26460</td><td><strong>2.037</strong></td><td>0.380</td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GAI</em></td><td>AT1G14920</td><td>-0.114</td><td>0.423</td><td>GA signaling</td></tr><tr><td><em>RGA</em></td><td>AT2G01570</td><td>-0.096</td><td>0.683</td><td>GA signaling</td></tr><tr><td><em>RGL1</em></td><td>AT1G66350</td><td>-0.892</td><td>0.083</td><td>GA signaling</td></tr><tr><td><em>RGL2</em></td><td>AT3G03450</td><td>0.424</td><td>0.398</td><td>GA signaling</td></tr><tr><td><em>RGL3</em></td><td>AT5G17490</td><td>0.760</td><td><strong>0.181</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>SPY</em></td><td>AT3G11540</td><td>-0.020</td><td>0.890</td><td>GA signaling</td></tr><tr><td><em>GASA4</em></td><td>AT5G15230</td><td><strong>-1.104</strong></td><td><strong>0.019</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>DWF4 BR Biosynthesis</em></td><td>AT3G50660</td><td><strong>-0.056</strong></td><td><strong>0.046</strong></td><td><strong>BA biosynthesis</strong></td></tr></tbody></table>
 
 ![](.gitbook/assets/2.png)
 
