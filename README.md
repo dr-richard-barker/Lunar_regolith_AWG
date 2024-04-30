@@ -8,6 +8,6 @@
 
 
 
-Link to edit spreadsheet so you can sign up to collaborate and refine the project management goal.
+[Link to edit spreadsheet](https://docs.google.com/spreadsheets/d/1-ot650GyQ-KEa0InyB3-YfN\_S45eB5BKpv6XhlaS9Gs/edit?usp=sharing) so you can sign up to collaborate and refine the project management goal.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1-ot650GyQ-KEa0InyB3-YfN_S45eB5BKpv6XhlaS9Gs/edit?usp=sharing" %}
