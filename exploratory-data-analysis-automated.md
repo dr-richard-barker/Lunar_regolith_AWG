@@ -445,7 +445,7 @@ for (column_name in names(df)) {
 
 ### Overview heatmap
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Notice the "None" group have Z-score outliers.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Notice the "None" group have Z-score outliers.</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 

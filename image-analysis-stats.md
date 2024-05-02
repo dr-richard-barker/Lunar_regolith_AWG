@@ -33,9 +33,136 @@ ggplot(group_stats, aes(x = as.numeric(age), y = mean_area, group = group, color
   theme_minimal()
 ```
 
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### Remove the "None" outliers&#x20;
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>"None" removed</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+```
+library(dplyr)
+library(ggplot2)
+
+# Perform ANOVA to test if there are significant differences between groups for each numeric variable
+results <- list()
+numeric_vars <- c("area", "convex_hull_area", "solidity", "perimeter", "width", "height", "longest_path", 
+                  "convex_hull_vertices", "ellipse_major_axis", "ellipse_minor_axis", "ellipse_angle", 
+                  "ellipse_eccentricity", "linear_scale", "area_scale")
+
+for (var in numeric_vars) {
+  formula <- as.formula(paste(var, "~ group"))
+  aov_result <- aov(formula, data = df)
+  summary_result <- summary(aov_result)
+  results[[var]] <- summary_result
+}
+
+# Display the results
+results
+```
+
+**Results:**
+
+```
+$area
+             Df    Sum Sq   Mean Sq F value   Pr(>F)    
+group         4 7.793e+09 1.948e+09   26.08 7.01e-16 ***
+Residuals   130 9.712e+09 7.471e+07                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$convex_hull_area
+             Df    Sum Sq   Mean Sq F value Pr(>F)    
+group         4 3.474e+10 8.685e+09   34.81 <2e-16 ***
+Residuals   130 3.243e+10 2.495e+08                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$solidity
+             Df Sum Sq Mean Sq F value Pr(>F)  
+group         4 0.2192 0.05480   2.603 0.0389 *
+Residuals   130 2.7374 0.02106                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$perimeter
+             Df   Sum Sq Mean Sq F value  Pr(>F)    
+group         4 16547205 4136801    20.4 4.6e-13 ***
+Residuals   130 26360351  202772                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$width
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+group         4 453812  113453   21.37 1.46e-13 ***
+Residuals   130 690222    5309                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$height
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+group         4 325199   81300   15.47 2.24e-10 ***
+Residuals   130 683195    5255                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$longest_path
+             Df   Sum Sq Mean Sq F value   Pr(>F)    
+group         4 24395763 6098941   21.75 9.33e-14 ***
+Residuals   130 36456962  280438                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$convex_hull_vertices
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+group         4   2382   595.6   12.93 6.89e-09 ***
+Residuals   130   5990    46.1                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$ellipse_major_axis
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+group         4 391147   97787   21.25 1.68e-13 ***
+Residuals   130 598270    4602                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$ellipse_minor_axis
+             Df Sum Sq Mean Sq F value   Pr(>F)    
+group         4 170834   42709   13.45 3.35e-09 ***
+Residuals   130 412786    3175                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$ellipse_angle
+             Df Sum Sq Mean Sq F value Pr(>F)
+group         4   9123    2281   0.832  0.507
+Residuals   130 356192    2740               
+
+$ellipse_eccentricity
+             Df Sum Sq Mean Sq F value Pr(>F)
+group         4  0.022 0.00557   0.174  0.951
+Residuals   130  4.159 0.03199               
+
+$linear_scale
+             Df    Sum Sq   Mean Sq F value Pr(>F)
+group         4 3.000e-11 7.410e-12   0.184  0.946
+Residuals   130 5.238e-09 4.029e-11               
+
+$area_scale
+             Df    Sum Sq   Mean Sq F value Pr(>F)
+group         4 1.020e-19 2.552e-20   0.193  0.942
+Residuals   130 1.717e-17 1.321e-19   
+```
+
+
+
+
+
+### **Earlier analysis**
 
 ```
 library(ggplot2)
@@ -59,7 +186,7 @@ ggplot() +
 
 <figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-Note the reduction in area between 4 and 6 is caused by the removal of sampels during the "thinning" stage.
+**Note that there is a reduction in area between 4 and 6 is caused by the removal of sampels during the "thinning" stage.**
 
 
 
@@ -93,7 +220,7 @@ What does Solidity mean? -> less gaps -> does that mean more or less leaf curlin
 
 **Catagories of data within the images**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -101,7 +228,7 @@ What does Solidity mean? -> less gaps -> does that mean more or less leaf curlin
 
 <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
 
 **Phenotype correlation analysis**
 
@@ -111,7 +238,7 @@ What does Solidity mean? -> less gaps -> does that mean more or less leaf curlin
 
 GG pairs all potential group phenotypes (age coloring)
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -146,7 +273,7 @@ heightellipse\_major\_axisareaconvex\_hull\_areaperimeterwidthlongest\_pathsolid
 
 
 
-**Data  summary**
+### **Data  summary**
 
 ```
     samples          sample_name             area       convex_hull_area      solidity         perimeter           width           height       longest_path    center_of_mass     convex_hull_vertices ellipse_center     ellipse_major_axis ellipse_minor_axis ellipse_angle      ellipse_eccentricity  image_name         linear_scale         area_scale        age    
@@ -159,7 +286,7 @@ heightellipse\_major\_axisareaconvex\_hull\_areaperimeterwidthlongest\_pathsolid
  
 ```
 
-**Data structure**&#x20;
+### **Data structure**&#x20;
 
 ```
 'data.frame':	135 obs. of  20 variables:
@@ -187,6 +314,8 @@ heightellipse\_major\_axisareaconvex\_hull\_areaperimeterwidthlongest\_pathsolid
 ```
 
 **Generated by the** [**summarytools**](https://cran.r-project.org/web/packages/summarytools/vignettes/introduction.html) **package using the command:summarytools::dfSummary(df).**
+
+### **Data frame summary**
 
 ```
 Data Frame Summary  
