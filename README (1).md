@@ -22,7 +22,7 @@ Methods for reanalysis
 
 This repo contains counts created for the "Lunar\_regolith" assay using the NF\_core RNAseq pipeline.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% @github-files/github-code-block %}
 

@@ -216,7 +216,7 @@ Finally, in regulating cell division, DELLA proteins interact with a class of tr
 
 </div>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Akt1-1 differentially expressed genes p&#x3C;0.05 (results from microarray and metascape mining by DRB)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption><p>Akt1-1 differentially expressed genes p&#x3C;0.05 (results from microarray and metascape mining by DRB)</p></figcaption></figure>
 
 
 
