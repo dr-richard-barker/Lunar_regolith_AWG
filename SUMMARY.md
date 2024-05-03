@@ -14,5 +14,5 @@
 * [Regolith stress might resemble some terrestrial stressors](regolith-stress-might-resemble-some-terrestrial-stressors.md)
 * [Student lessons: "The Shackleton Crater Rim Garden"](student-lessons-the-shackleton-crater-rim-garden.md)
 * [References](references.md)
-* [Image analysis stats](image-analysis-stats.md)
-* [Exploratory data analysis, automated](exploratory-data-analysis-automated.md)
+* [Regolith Image reanalysis stats](regolith-image-reanalysis-stats.md)
+* [Regolith - Exploratory data analysis, GPT4 automated](regolith-exploratory-data-analysis-gpt4-automated.md)

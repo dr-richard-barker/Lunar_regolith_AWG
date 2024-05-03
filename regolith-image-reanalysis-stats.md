@@ -1,4 +1,4 @@
-# Image analysis stats
+# Regolith Image reanalysis stats
 
 First read Read File
 
@@ -33,15 +33,25 @@ ggplot(group_stats, aes(x = as.numeric(age), y = mean_area, group = group, color
   theme_minimal()
 ```
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
 
 ### Remove the "None" outliers&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>"None" removed</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>What does Solidity mean? -> less gaps? -> does that mean more or less leaf curling? or more of less leaf etiolation? </p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Noe removed with "Swam of reps"</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Note that the Appolo samples weren't able to recover from the "thinning" stimuli, does that mean that the lunar regoltih makes the plants more sensitive to mechanical stimuli? </p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 library(dplyr)
@@ -162,49 +172,7 @@ Residuals   130 1.717e-17 1.321e-19
 
 
 
-### **Earlier analysis**
-
-```
-library(ggplot2)
-library(dplyr)
-
-# Calculate mean and standard error for each sample_name and age
-df_summary <- df %>%
-  group_by(sample_name, age) %>%
-  summarise(mean_area = mean(area), se = sd(area) / sqrt(n()), .groups = 'drop')
-
-# Create the plot
-ggplot() +
-  geom_point(data = df, aes(x = age, y = area, color = sample_name), alpha = 0.5) +
-  geom_line(data = df_summary, aes(x = age, y = mean_area, group = sample_name, color = sample_name)) +
-  geom_errorbar(data = df_summary, aes(x = age, ymin = mean_area - se, ymax = mean_area + se, group = sample_name), width = 0.2, color = "grey") +
-  scale_color_brewer(palette = "Set1") +
-
-  labs(x = "Plant Age", y = "Area", title = "Plant Growth Across Regoliths with Mean and SE") +
-  theme_minimal()
-```
-
-<figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Note that there is a reduction in area between 4 and 6 is caused by the removal of sampels during the "thinning" stage.**
-
-
-
-<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-<figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-<figure><img src=".gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
-
-What does Solidity mean? -> less gaps -> does that mean more or less leaf curling? or more of less leaf etiolation?&#x20;
+###
 
 
 
@@ -214,21 +182,21 @@ What does Solidity mean? -> less gaps -> does that mean more or less leaf curlin
 
 
 
-
+aa
 
 
 
 **Catagories of data within the images**
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Frequencies of Categories**&#x20;
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
 
 **Phenotype correlation analysis**
 
@@ -238,7 +206,7 @@ What does Solidity mean? -> less gaps -> does that mean more or less leaf curlin
 
 GG pairs all potential group phenotypes (age coloring)
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
