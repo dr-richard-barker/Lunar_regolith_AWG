@@ -53,25 +53,25 @@ aa
 
 **Note: These slides can be refined and exported from the slide show in a high resolution…**
 
-![](.gitbook/assets/7.png)
+![](../.gitbook/assets/7.png)
 
 **Figure X**: Recent reanalyses of lunar samples have demonstrated varying degrees of stress-induced gene expression that strongly correlate with the geographic location of these samples on the Moon. This finding suggests a significant environmental influence on the molecular biology of organisms exposed to lunar conditions, warranting further investigation into the nature and implications of these variations.
 
 Note: 50 pages below of other summary figures from the Broad lunar model.
 
-![Higher resolution avalibale on slides in repo.](.gitbook/assets/8.png)
+![Higher resolution avalibale on slides in repo.](../.gitbook/assets/8.png)
 
 **Figure x:** The signal indicative of the general adaptation response to starvation stress was pinpointed through GAGE (Generally Applicable Gene-set Enrichment) analysis focused on the KEGG (Kyoto Encyclopedia of Genes and Genomes) pathways associated with the ribosome and the phenylpropanoid biosynthesis pathway.
 
 
 
-![Higher resolution avalibale on slides in repo.](.gitbook/assets/9.png)
+![Higher resolution avalibale on slides in repo.](../.gitbook/assets/9.png)
 
 Figure XXX: bar plot cpomarison of signitifant DEG count for each of the difernt appolo mission/sites that correlate with the phenotypic stress levels in the samples. Plotting these data on the KEGG plant hormonal pathways summary diagram using KEGG pathvuew shows that we see similar changes to hormonal regulation systems across all regolith types. &#x20;
 
 Each of the 3 locations exhibited a range of transcriptional responses with APPolo 11 exhibiting the greatest change in gene expression. Despight changes inthe number of differentially expressed genes in these comparisons the pathways that respond are broadley similar. These samples can then be pooled to create a broad lunar model compares all the lunar regolith to the simulant.  we then used KEGG pathview to illustrate changes in the hormonal signaling pathways. This reveals a borad alteration to signaling systems associated with ethylene, gibberellin (GA), cytokinin,  jasmonic acid (JA), salasistic acid (SA) and auxin. These stress signals interact with the response to the perception of blue light and the regulation of the circadian rhythm in response to starvation.
 
-![Tsne clusering identifies 4 clusers with disinct stress response functions.](.gitbook/assets/16.png)
+![Tsne clusering identifies 4 clusers with disinct stress response functions.](../.gitbook/assets/16.png)
 
 **4 clusters defined by Kmean**
 
@@ -79,11 +79,11 @@ Each of the 3 locations exhibited a range of transcriptional responses with APPo
 
 In the pursuit of advancing our comprehension of the Moon's geology and its relationship with Earth, researchers have categorized lunar samples into a unified framework, referred to as the "Broad Lunar Model". This approach synthesizes the diverse array of samples gathered from the lunar surface into a cohesive linear model, facilitating a more comprehensive evaluation of the Moon's composition and its evolutionary linkage with Earth.
 
-![Figure x: An alternative statical model that groups all lunar locations can be used to identify DEG’s. Box plot, densit plot, scatter plot and MA plot all show transcriptional data distrubtion. Tsne and MDS plots show grouping that doesn’t correlate with main factors (location).](.gitbook/assets/17.png)
+![Figure x: An alternative statical model that groups all lunar locations can be used to identify DEG’s. Box plot, densit plot, scatter plot and MA plot all show transcriptional data distrubtion. Tsne and MDS plots show grouping that doesn’t correlate with main factors (location).](../.gitbook/assets/17.png)
 
 
 
-![Figure X: DEG, Up count, DEG down count, volcano plot summary of FC and adjusted p-values and Genome ontology terms associated with the 5 main principle components within the expression matrix. All lunar samples were binned together to create the broad lunar response model.](.gitbook/assets/18.png)
+![Figure X: DEG, Up count, DEG down count, volcano plot summary of FC and adjusted p-values and Genome ontology terms associated with the 5 main principle components within the expression matrix. All lunar samples were binned together to create the broad lunar response model.](../.gitbook/assets/18.png)
 
 
 
@@ -109,7 +109,7 @@ This study presents a comprehensive analysis comparing the gene expression profi
 
 A detailed Gene Ontology (GO) analysis provided further insights into the affected biological processes, highlighting significant changes with associated p-values indicating statistical relevance. The GO analysis underscores the extensive impact of lunar regolith exposure on cellular and molecular components, elucidating potential pathways affected by the lunar environment. Gene ontology is a project that produces a dynamic annotated database that defines biological processes, cellular components, and molecular functions of gene products in a species-independent manner \[1]. This particular graph is focus on biological processes.
 
-![Dendrogram showing connected GO groups identified by the broad lunar response model. Biological process differentially expressed Earth JSC simulant vs Lunar regolith](.gitbook/assets/19.png)
+![Dendrogram showing connected GO groups identified by the broad lunar response model. Biological process differentially expressed Earth JSC simulant vs Lunar regolith](../.gitbook/assets/19.png)
 
 Within the graph, terms are connected by dendrongrams indicating parent-child relationships. A child term inherits the meaning of its parent, and adds additional specificity. For example, in the image, the term "mitotic cell cycle phase transition" (6e-16) is a child of the term "cell cycle phase transition" (4e-16). This indicates that a mitotic cell cycle phase transition is a specific kind of cell cycle phase transition. The numbers next to the terms in the image likely refer to p-values, which indicate the probability that a random association between genes and a term could have produced the observed amount of association. Lower p-values indicate a stronger association between the genes and the term.
 
@@ -133,7 +133,7 @@ Further research is necessary to validate these findings and explore their impli
 
 ### Identification of 4 Gene Clusters Through WGCNA
 
-<figure><img src=".gitbook/assets/20.png" alt=""><figcaption><p>Ideniftifcation of Gene Clusters through Weighted Gene Co-expression Network Analysis,</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption><p>Ideniftifcation of Gene Clusters through Weighted Gene Co-expression Network Analysis,</p></figcaption></figure>
 
 Using Weighted Gene Co-expression Network Analysis (WGCNA), four distinct clusters have been identified based on their functional grouping. These clusters are delineated within the dendrogram that represents both gene expression and functional similarities. The clusters are categorized as follows: Turquoise, Brown, Yellow, and Blue. Each of these clusters has been characterized by the top 10 loci that define their respective grouping, providing key insights into the underlying gene expressions that demarcate each cluster.
 
