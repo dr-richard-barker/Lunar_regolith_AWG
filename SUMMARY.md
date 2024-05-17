@@ -16,3 +16,4 @@
   * [Not sure how you can help?](future-work-digital-doubles/not-sure-how-you-can-help.md)
 * [References](references.md)
 * [Student lessons: "The Shackleton Crater Rim Garden"](student-lessons-the-shackleton-crater-rim-garden.md)
+* [Using the Config File for Regolith Research Planning](using-the-config-file-for-regolith-research-planning.md)
