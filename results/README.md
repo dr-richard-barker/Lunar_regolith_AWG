@@ -45,8 +45,6 @@ In conclusion, understanding these stress response clusters provides critical in
 
 
 
-aa
-
 [DRB Summary slide with the Mini Groot Broad narrative](https://docs.google.com/presentation/u/0/d/1a\_\_b4exPY8by33kcYLlLfEo\_rVxcj7CM7w\_\_xbTRThE/edit)
 
 {% embed url="https://docs.google.com/presentation/d/1a__b4exPY8by33kcYLlLfEo_rVxcj7CM7w__xbTRThE/edit" %}
@@ -57,7 +55,7 @@ aa
 
 **Figure X**: Recent reanalyses of lunar samples have demonstrated varying degrees of stress-induced gene expression that strongly correlate with the geographic location of these samples on the Moon. This finding suggests a significant environmental influence on the molecular biology of organisms exposed to lunar conditions, warranting further investigation into the nature and implications of these variations.
 
-Note: 50 pages below of other summary figures from the Broad lunar model.
+**Note:** 50 pages below of other summary figures from the Broad lunar model.
 
 ![Higher resolution avalibale on slides in repo.](../.gitbook/assets/8.png)
 
@@ -67,9 +65,9 @@ Note: 50 pages below of other summary figures from the Broad lunar model.
 
 ![Higher resolution avalibale on slides in repo.](../.gitbook/assets/9.png)
 
-Figure XXX: bar plot cpomarison of signitifant DEG count for each of the difernt appolo mission/sites that correlate with the phenotypic stress levels in the samples. Plotting these data on the KEGG plant hormonal pathways summary diagram using KEGG pathvuew shows that we see similar changes to hormonal regulation systems across all regolith types. &#x20;
+Figure XXX: Compare the significant DEG counts for various Apollo missions/sites based on phenotypic stress levels using a bar plot. Utilize the KEGG Pathview to illustrate these data on the KEGG plant hormonal pathways summary, highlighting consistent changes in hormonal regulation across all regolith types.
 
-Each of the 3 locations exhibited a range of transcriptional responses with APPolo 11 exhibiting the greatest change in gene expression. Despight changes inthe number of differentially expressed genes in these comparisons the pathways that respond are broadley similar. These samples can then be pooled to create a broad lunar model compares all the lunar regolith to the simulant.  we then used KEGG pathview to illustrate changes in the hormonal signaling pathways. This reveals a borad alteration to signaling systems associated with ethylene, gibberellin (GA), cytokinin,  jasmonic acid (JA), salasistic acid (SA) and auxin. These stress signals interact with the response to the perception of blue light and the regulation of the circadian rhythm in response to starvation.
+Each of the three locations exhibited a range of transcriptional responses, with APPolo 11 showing the greatest change in gene expression. Despite variations in the number of differentially expressed genes, the responsive pathways are broadly similar. These samples can be pooled to create a comprehensive lunar model comparing all lunar regolith samples to the simulant. We then used KEGG Pathview to illustrate changes in hormonal signaling pathways, revealing significant alterations in ethylene, gibberellin (GA), cytokinin, jasmonic acid (JA), salicylic acid (SA), and auxin. These stress signals interact with responses to blue light perception and circadian rhythm regulation in response to starvation.
 
 ![Tsne clusering identifies 4 clusers with disinct stress response functions.](../.gitbook/assets/16.png)
 
@@ -111,23 +109,9 @@ A detailed Gene Ontology (GO) analysis provided further insights into the affect
 
 ![Dendrogram showing connected GO groups identified by the broad lunar response model. Biological process differentially expressed Earth JSC simulant vs Lunar regolith](../.gitbook/assets/19.png)
 
-Within the graph, terms are connected by dendrongrams indicating parent-child relationships. A child term inherits the meaning of its parent, and adds additional specificity. For example, in the image, the term "mitotic cell cycle phase transition" (6e-16) is a child of the term "cell cycle phase transition" (4e-16). This indicates that a mitotic cell cycle phase transition is a specific kind of cell cycle phase transition. The numbers next to the terms in the image likely refer to p-values, which indicate the probability that a random association between genes and a term could have produced the observed amount of association. Lower p-values indicate a stronger association between the genes and the term.
+In the graph, terms are linked by dendrograms indicating parent-child relationships. A child term inherits its parent's meaning and adds specificity. For instance, "mitotic cell cycle phase transition" (6e-16) is a child of "cell cycle phase transition" (4e-16), showing that the former is a specific type of the latter. The numbers next to the terms likely represent p-values, indicating the probability that the observed association between genes and a term occurred by chance. Lower p-values suggest a stronger association.
 
-The visualization, an excerpt from the comprehensive Gene Ontology (GO) term graph available through the GO consortium\[1], categorizes biological processes from general to specific. This categorization begins with the Cell Cycle, distinguishing between the Meiotic Cell Cycle, including the Meiotic Cell Cycle Process, and the Mitotic Cell Cycle, which is further divided into the Mitotic Cell Cycle Process and the Mitotic Cell Cycle Phase Transition. In another category, the Response to External Stimulus encompasses the Response to Chemical, which includes the Response to Hormone, and the Response to Other Organism, which includes the Defense Response and the Response to Fungus.
-
-Here are some references that you may find helpful:
-
-* The Gene Ontology Consortium. [http://geneontology.org/](http://geneontology.org/)
-
-**Conclusion**
-
-This comparative study between true lunar regolith and JSC-1A lunar simulant underscores the profound effects of the lunar material on gene expression. Not only does this research enhance our understanding of life's resilience in extraterrestrial environments, but it also provides critical insights for future lunar explorations and the development of bio-regenerative life support systems.
-
-**Future Directions**
-
-Further research is necessary to validate these findings and explore their implications for long-term lunar habitation and the viability of cultivating life-supporting ecosystems on the Moon.
-
-
+The visualization, derived from the detailed Gene Ontology (GO) term graph by the GO consortium\[1], categorizes biological processes from broad to specific. It begins with the Cell Cycle, differentiating between the Meiotic Cell Cycle, including the Meiotic Cell Cycle Process, and the Mitotic Cell Cycle, which subdivides into the Mitotic Cell Cycle Process and the Mitotic Cell Cycle Phase Transition. Another category, the Response to External Stimulus, includes the Response to Chemical, encompassing the Response to Hormone, and the Response to Other Organism, including the Defense Response and the Response to Fungus.
 
 
 
@@ -141,17 +125,25 @@ Using Weighted Gene Co-expression Network Analysis (WGCNA), four distinct cluste
 
 **A few example "marker" loci from the 4 clusters identified by WGCNA**
 
-Turquoise: GLR1.3, PER34 CEN2 and NAC047.
+**Turquoise:** GLR1.3, PER34 CEN2 and NAC047.
 
-Brown: NRT1.1, PRX11C, WRK60, and TRX9
+**Brown:** NRT1.1, PRX11C, WRK60, and TRX9
 
-Yellow: SUS3, RABC2B, TSA1, BGLU18, GOLS1, PHO1-H10 and GLO5
+**Yellow:** SUS3, RABC2B, TSA1, BGLU18, GOLS1, PHO1-H10 and GLO5
 
-Blue: SOD2, PAP24, UP6, and FAP2
+**Blue:** SOD2, PAP24, UP6, and FAP2
 
 
 
-Figure: GO terms with significant enrichment within the DEG’s from the Broad lunar location model.
+### **Conclusion**
+
+This comparative study between true lunar regolith and JSC-1A lunar simulant underscores the profound effects of the lunar material on gene expression. Not only does this research enhance our understanding of life's resilience in extraterrestrial environments, but it also provides critical insights for future lunar explorations and the development of bio-regenerative life support systems.
+
+**Future Directions**
+
+Further research is necessary to validate these findings and explore their implications for long-term lunar habitation and the viability of cultivating life-supporting ecosystems on the Moon.
+
+
 
 **Table X: KEGG pathway enrichment**
 

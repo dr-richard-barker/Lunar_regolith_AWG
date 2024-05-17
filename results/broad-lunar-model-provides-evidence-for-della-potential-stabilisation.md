@@ -260,11 +260,13 @@ Finally, in regulating cell division, DELLA proteins interact with a class of tr
 
 <table data-header-hidden><thead><tr><th width="148"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Symbol</strong></td><td><strong>Gene ID</strong></td><td><strong>Moon-Earth_log2FoldChange</strong></td><td><strong>Moon-Earth_padj</strong></td><td><strong>Function</strong></td></tr><tr><td><em><strong>CPS</strong></em></td><td>AT4G02780</td><td><strong>-2.101</strong></td><td><strong>0.023</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KAO</em></td><td><strong>AT2G18620</strong> </td><td>-0.487</td><td>0.198</td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em><strong>KO</strong></em></td><td><strong>AT5G25900</strong></td><td><strong>0.482</strong></td><td><strong>0.017</strong></td><td><strong>GA precursor synthesis</strong></td></tr><tr><td><em>KS</em></td><td>AT1G79460</td><td>-0.521</td><td><strong>0.115</strong></td><td><strong>GA12 biosynthesis</strong></td></tr><tr><td><em>GA20ox1</em></td><td>AT4G25420</td><td>0.004</td><td>0.995</td><td>Penultimate activation</td></tr><tr><td><em>GA20ox2</em></td><td>AT5G51810</td><td>1.156</td><td><strong>0.170</strong></td><td>Penultimate activation</td></tr><tr><td><em>GA3ox1</em></td><td>AT1G15550</td><td>-0.558</td><td>0.378</td><td>GA activation</td></tr><tr><td><em>GA3ox2</em></td><td>AT1G80340</td><td>-1.078</td><td>0.249</td><td>GA activation</td></tr><tr><td><em><strong>GA2ox1</strong></em></td><td><strong>AT1G02400</strong></td><td><strong>-2.168</strong></td><td><strong>0.044</strong></td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GA2ox2</em></td><td>AT1G30040</td><td>0.139</td><td>0.742</td><td>GA deactivation</td></tr><tr><td><em>GA2ox4</em></td><td>AT1G47990</td><td>0.551</td><td>0.494</td><td>GA deactivation</td></tr><tr><td><em>GA2ox6</em></td><td>AT1G02400</td><td>0.528</td><td>0.236</td><td>GA deactivation</td></tr><tr><td><em>GID1a</em></td><td>AT3G05120</td><td>0.428</td><td><strong>0.162</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1b</em></td><td>AT3G63010</td><td>0.810</td><td><strong>0.167</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GID1c</em></td><td>AT5G27320</td><td>0.210</td><td><strong>0.148</strong></td><td><strong>GA perception</strong></td></tr><tr><td><em>GA Methyltransferase</em></td><td>AT4G26460</td><td><strong>2.037</strong></td><td>0.380</td><td><strong>GA deactivation</strong></td></tr><tr><td><em>GAI</em></td><td>AT1G14920</td><td>-0.114</td><td>0.423</td><td>GA signaling</td></tr><tr><td><em>RGA</em></td><td>AT2G01570</td><td>-0.096</td><td>0.683</td><td>GA signaling</td></tr><tr><td><em>RGL1</em></td><td>AT1G66350</td><td>-0.892</td><td>0.083</td><td>GA signaling</td></tr><tr><td><em>RGL2</em></td><td>AT3G03450</td><td>0.424</td><td>0.398</td><td>GA signaling</td></tr><tr><td><em>RGL3</em></td><td>AT5G17490</td><td>0.760</td><td><strong>0.181</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>SPY</em></td><td>AT3G11540</td><td>-0.020</td><td>0.890</td><td>GA signaling</td></tr><tr><td><em>GASA4</em></td><td>AT5G15230</td><td><strong>-1.104</strong></td><td><strong>0.019</strong></td><td><strong>GA signaling</strong></td></tr><tr><td><em>DWF4 BR Biosynthesis</em></td><td>AT3G50660</td><td><strong>-0.056</strong></td><td><strong>0.046</strong></td><td><strong>BA biosynthesis</strong></td></tr></tbody></table>
 
-![](../.gitbook/assets/2.png)
+![ARACYC showing changes in GA ](../.gitbook/assets/2.png)
 
 **Figure XX:** AraCyc hormonal pathway collage showing loci and reactions with a log fold change of more than 2 (from the Broad location modell V11). Red means a reaction has increased transcription of its enzyme and purple means its suppressed.
 
 
+
+**Below are a series of GA related figures that could evolve and be described as part of a finalized narrative**&#x20;
 
 ![](../.gitbook/assets/3.png)
 
@@ -272,15 +274,9 @@ Source: [https://doi.org/10.1016/j.pbi.2021.102074](https://doi.org/10.1016/j.pb
 
 ![](../.gitbook/assets/4.png)
 
-**Describe and discuss the genetics in the rearview / diagram**
 
 
-
-**This is brainstorming, add GA-related gravitropism narrative?**&#x20;
-
-With the refinement of the narrative the figures and be finalized.
-
-![C:\Users\Dr Richard Barker\Pictures\Science Pictures\GA old school giant.png](../.gitbook/assets/10.png) ![](../.gitbook/assets/11.png) ![](../.gitbook/assets/12.png)
+![](../.gitbook/assets/10.png) ![](../.gitbook/assets/11.png) ![](../.gitbook/assets/12.png)
 
 ![](../.gitbook/assets/13.png) ![](../.gitbook/assets/14.png) ![](../.gitbook/assets/15.png)
 
@@ -290,11 +286,9 @@ With the refinement of the narrative the figures and be finalized.
 
 
 
-**Could it be the compaction of the powder activating increased 'touch response'?**
+**Gibberellin Metabolism and Its Role in Touch-Induced Morphological Alterations in Arabidopsis.**
 
-**Gibberellin Metabolism and Its Role in Touch-Induced Morphological Alterations in Arabidopsis**
-
-Lange and Lange, in their 2015 study, explore the intricate dynamics of gibberellin breakdown and its consequential effect on the morphological transformations observed in Arabidopsis thaliana upon tactile stimulation. This research underscores the pivotal role of gibberellin catabolism in modulating plant growth responses to mechanical stimuli, thereby enriching our understanding of plant adaptability and resilience.
+Lange and Lange's 2015 study delves into the complex dynamics of gibberellin breakdown and its impact on the morphological changes in Arabidopsis thaliana in response to tactile stimulation. Their research highlights the crucial role of gibberellin catabolism in regulating plant growth responses to mechanical stimuli, enhancing our understanding of plant adaptability and resilience.
 
 Lange MJ, Lange T. Touch-induced changes in Arabidopsis morphology dependent on gibberellin breakdown. Nat Plants. 2015 Feb 9;1:14025. doi: 10.1038/nplants.2014.25. PMID: 27246879.
 
@@ -310,4 +304,3 @@ Lange MJ, Lange T. Touch-induced changes in Arabidopsis morphology dependent on 
 
 {% embed url="https://docs.google.com/presentation/d/1qOXxHaiaiWcOGvZV7kG1T9CR9LT4lEJVZy07Z0XnsOM/edit#slide=id.p" %}
 
-O

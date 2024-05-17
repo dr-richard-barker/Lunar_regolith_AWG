@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Action plan for Plant AWG regolith review](README.md)
-* [Reanalysis of Lunar regolith data using a general Regolith model](<README (1).md>)
+* [Reanalysis of Arabidopsis response to Lunar regolith data using a general linear model.](<README (1).md>)
 * [Original insights from Lunar regolith by the Space Plants Florida.](Original\_insights/readme.md)
 * [The Lunar Green Revolution: Introduction](the-lunar-green-revolution-introduction.md)
 * [The Green Lunar Revolution: Methods](the-green-lunar-revolution-methods.md)
