@@ -39,25 +39,25 @@ ggplot(group_stats, aes(x = as.numeric(age), y = mean_area, group = group, color
   theme_minimal()
 ```
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Notice the samples with unknown group "None" </p></figcaption></figure>
 
 ### Remove the "None" outliers&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>What does Solidity mean? -> less gaps? -> does that mean more or less leaf curling? or more of less leaf etiolation? </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Noe removed with "Swam of reps"</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Note that the Appolo samples weren't able to recover from the "thinning" stimuli, does that mean that the lunar regoltih makes the plants more sensitive to mechanical stimuli? </p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Noe removed with "Swam of reps"</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Note that the Appolo samples weren't able to recover from the "thinning" stimuli, does that mean that the lunar regoltih makes the plants more sensitive to mechanical stimuli? </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 library(dplyr)
@@ -194,15 +194,15 @@ aa
 
 **Catagories of data within the images**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Frequencies of Categories**&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>plot_qq() and plot_histogram() functions in the</strong> <a href="https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html"><strong>DataExplorer</strong></a> <strong>package.</strong></p></figcaption></figure>
 
 **Phenotype correlation analysis**
 
@@ -212,7 +212,7 @@ aa
 
 GG pairs all potential group phenotypes (age coloring)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

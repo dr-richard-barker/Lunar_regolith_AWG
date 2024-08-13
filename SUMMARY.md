@@ -17,3 +17,4 @@
 * [References](references.md)
 * [Student lessons: "The Shackleton Crater Rim Garden"](student-lessons-the-shackleton-crater-rim-garden.md)
 * [Using the Config File for Regolith Research Planning](using-the-config-file-for-regolith-research-planning.md)
+* [Exploration Lesson Plan](exploration-lesson-plan.md)
