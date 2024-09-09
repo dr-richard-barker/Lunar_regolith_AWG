@@ -14,6 +14,7 @@
 * [Future Work: Digital doubles](future-work-digital-doubles/README.md)
   * [Regolith stress might resemble some terrestrial stressors](future-work-digital-doubles/regolith-stress-might-resemble-some-terrestrial-stressors.md)
   * [Not sure how you can help?](future-work-digital-doubles/not-sure-how-you-can-help.md)
+  * [MicroRNA anaylsis](future-work-digital-doubles/microrna-anaylsis.md)
 * [References](references.md)
 * [Student lessons: "The Shackleton Crater Rim Garden"](student-lessons-the-shackleton-crater-rim-garden.md)
 * [Using the Config File for Regolith Research Planning](using-the-config-file-for-regolith-research-planning.md)
